@@ -12,7 +12,7 @@ int main(){
 		scanf("%d",&a[i]);
 	}
 	pos=n;
-	printf("\nEnter the new number");
+	printf("\nEnter the new number: ");
 	scanf("%d",&item);
 	n=n+1;
 	for(i=n-1; i>pos; i--){
